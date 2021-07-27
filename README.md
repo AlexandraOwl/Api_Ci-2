@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/54qry25r74fr5cr6?svg=true)](https://ci.appveyor.com/project/AlexandraOwl/api-ci1)
+[![Build status](https://ci.appveyor.com/api/projects/status/7ki8lmya0n7dnnlb?svg=true)](https://ci.appveyor.com/project/AlexandraOwl/api-ci-2)
