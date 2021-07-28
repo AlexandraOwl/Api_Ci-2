@@ -34,6 +34,3 @@ class MobileBankApiTestV6 {
         ;
     }
 
-    private RequestSpecification statusCode(int i) {
-    }
-}
